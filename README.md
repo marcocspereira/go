@@ -3,6 +3,8 @@
 Repository that holds exercises related to the Go programming language.
 
 * [Configure Visual Studio Code for Go development](https://learn.microsoft.com/en-us/azure/developer/go/configure-visual-studio-code)
+* [Go by Example](https://gobyexample.com/)
+* [Learng Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 
 ## Writing tests
