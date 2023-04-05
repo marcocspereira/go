@@ -1,0 +1,6 @@
+go 1.19
+
+use (
+	"./go by example/hello_world"
+	"./go by example/values"
+)
