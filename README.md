@@ -1,11 +1,31 @@
 # go
 
+## Intro
+
 Repository that holds exercises related to the Go programming language.
+
+Some sources of information:
 
 * [Configure Visual Studio Code for Go development](https://learn.microsoft.com/en-us/azure/developer/go/configure-visual-studio-code)
 * [Go by Example](https://gobyexample.com/)
 * [Learng Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 * [Questions](questions.md)
+
+## Basics
+
+**Type of language:**
+
+* Python, Ruby or JavaScript are all examples of dynamically typed languages, one which the developers do not care what values are assigned to variables
+* With **Go**, whenever a variable is defined, a type is also assigned to it, like Java or C.
+
+**Types of variables**
+
+| Type | Example |
+| --- | --- |
+|boolean|`true` or `false`|
+|string |`"Hello World"`|
+|int|`0` `-100` `999`|
+|float|`0.0` `-100.5` `3.141592`|
 
 ## Writing tests
 Writing a test is just like writing a function, with a few rules:
